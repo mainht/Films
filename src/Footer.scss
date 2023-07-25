@@ -1,0 +1,13 @@
+@import "./scss/variables.scss";
+
+.footer-films {
+    display: flex;
+    background-color: $background-color;
+    position: $position;
+    width: $width;
+    padding: $padding;
+}
+
+.text-center {
+    color: white;
+}
